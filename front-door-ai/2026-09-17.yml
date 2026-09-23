@@ -1,0 +1,29 @@
+# Front Door AI Index — jacobs-solutions — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: jacobs-solutions
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.jacobs.com
+  final_host: www.jacobs.com
+  ownership: unresolved
+  owner: null
+  shares_host_with:
+  - ch2m-hill
+  - jacobs-engineering-group
+  inherited_from: null
+  verdict: scored
+  score: null
+  host_score: 29
+  density: null
+  words: 2044
+  tiers:
+    agentic: 0
+    core: 29
+    model: 0
+  ambiguous: 2
+  top_terms:
+    AI: 27
+    artificial intelligence: 2
+    intelligence: 2
